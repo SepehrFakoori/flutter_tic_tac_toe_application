@@ -1,6 +1,6 @@
 # tic_tac_toe_application
 
-tic_tac_toe_application is a project designed for Tic Tac Toe Game with a simple ui. This comprehensive guide will provide you with everything you need to know to get started with the project.
+tic_tac_toe_application is a project designed for Tic Tac Toe Game with a simple UI. This comprehensive guide will provide you with everything you need to know to get started with the project.
 
 ## Table of Contents
 
@@ -12,9 +12,9 @@ tic_tac_toe_application is a project designed for Tic Tac Toe Game with a simple
 <br />
 <div>
   &emsp;&emsp;&emsp;
-  <img src="https://github.com/webfactorymk/flutter-template/blob/main/diagrams/light_theme.png" alt="Light theme" width="330">
+  <img src="https://github.com/SepehrFakoori/flutter_tic_tac_toe_application/blob/535b14a7e6cd555f76cb46b4866292834dbc7677/images/tic_tac_toe_winner.png" alt="Game Screen" width="330">
   &emsp;&emsp;&emsp;&emsp;
-  <img src="https://github.com/webfactorymk/flutter-template/blob/main/diagrams/dark_theme.jpg" alt="Dark theme" width="320">  
+  <img src="https://github.com/SepehrFakoori/flutter_tic_tac_toe_application/blob/535b14a7e6cd555f76cb46b4866292834dbc7677/images/tic_tac_toe_winner.png" alt="Game Screen" width="320">  
 </div>
 <br />
 
@@ -41,4 +41,4 @@ I welcome contributions to tic_tac_toe_application. If you would like to contrib
 
 5. Submit a pull request to the main repository.
 
-Thank you for choosing tic_tac_toe_application! If you encounter any issues or have suggestions for improvements, please don't hesitate to [create an issue](https://github.com/sepehrfakoori/tic_tac_toe_application/issues) or [contribute to the project](#contributing). We look forward to your feedback and collaboration.
+Thank you for choosing tic_tac_toe_application! If you encounter any issues or have suggestions for improvements, please don't hesitate to [create an issue](https://github.com/sepehrfakoori/flutter_tic_tac_toe_application/issues) or [contribute to the project](#contributing). We look forward to your feedback and collaboration.
